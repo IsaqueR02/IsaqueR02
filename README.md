@@ -1,16 +1,31 @@
-## Hi there 👋
+### E aí, eu sou Isaque Roberto 👋
 
-<!--
-**IsaqueR02/IsaqueR02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑🏽‍🎓 Estudo Sistemas de Informação
+- ♾️ Neurodiverso
+- 🌱 Estudando Javascript e Typescript
+- 😊 Pronouns: Ele/ Dele
 
-Here are some ideas to get you started:
+[![Blog]( https://img.shields.io/website-up-down-green-red/http/monip.org.svg)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaque-roberto-zulato-henriques/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaqueR02&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
+### Tecnologia que eu utilizo ⚙
+
+<div>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align="center" alt="net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+    <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</div>
+
+**📔 Me apresentando:**
+
+Estudadante de programação apaixonado por tecnologia. Meu objetivo é me tornar mais profissional e encontrar as melhores ferramentas para entrar na área de programção, criando experiências que inspirem e divirtam as pessoas. Embora enfrente desafios como dificuldades de comunicação e sensibilidade a estímulos, tenho aprendido a superar essas dificuldades através de organização, planejamento e ferramentas de auxílio que os profissionais me recomendam. Quero transformar meus sonhos em algo mais palpável.
