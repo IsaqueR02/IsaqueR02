@@ -1,5 +1,8 @@
 ### E aí, eu sou Isaque Roberto 👋
 
+<img align="right" alt="Isaque-Roberto" src="https://cdn.discordapp.com/attachments/1251296510143102979/1282714890376581153/02.gif?ex=66e05cd5&is=66df0b55&hm=14713dc45bbe36ac69e9891d189d4a2edaf5ddfb584175e3e9e62f0ce0f9acd7&"/>
+
+
 - 🧑🏽‍🎓 Estudo Sistemas de Informação
 - ♾️ Neurodiverso
 - 🌱 Estudando Javascript e Typescript
