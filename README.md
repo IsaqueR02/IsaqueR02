@@ -1,7 +1,6 @@
-### E aí, eu sou Isaque Roberto 👋
+## E aí, eu sou Isaque Roberto 👋
 
 <img align="right" alt="Isaque-Roberto" src="https://cdn.discordapp.com/attachments/1251296510143102979/1282714890376581153/02.gif?ex=66e05cd5&is=66df0b55&hm=14713dc45bbe36ac69e9891d189d4a2edaf5ddfb584175e3e9e62f0ce0f9acd7&"/>
-
 
 - 🧑🏽‍🎓 Estudo Sistemas de Informação
 - ♾️ Neurodiverso
@@ -12,7 +11,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaque-roberto-zulato-henriques/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaqueR02&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 ### Tecnologia que eu utilizo ⚙
@@ -29,6 +27,7 @@
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
 
-**📔 Me apresentando:**
+
+# **📔 Me apresentando:**
 
 Estudadante de programação apaixonado por tecnologia. Meu objetivo é me tornar mais profissional e encontrar as melhores ferramentas para entrar na área de programção, criando experiências que inspirem e divirtam as pessoas. Embora enfrente desafios como dificuldades de comunicação e sensibilidade a estímulos, tenho aprendido a superar essas dificuldades através de organização, planejamento e ferramentas de auxílio que os profissionais me recomendam. Quero transformar meus sonhos em algo mais palpável.
