@@ -96,8 +96,8 @@ Stacks: **TypeScript · React · NestJS · Java · Spring Boot**
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=IsaqueR02&show_icons=true&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=IsaqueR02&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IsaqueR02&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=IsaqueR02&theme=tokyonight)
 </div>
 
 ---
