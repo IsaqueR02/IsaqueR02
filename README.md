@@ -7,7 +7,7 @@
   ██████╔╝███████╗ ╚████╔╝
   ╚═════╝ ╚══════╝  ╚═══╝
 ```
-
+## 👾 Quem sou eu
 ### `< Desenvolvedor Júnior em formação />`
 
 *Estudante de Sistemas de Informação · Ex-CI&T · Alumni · Em constante evolução*
@@ -18,9 +18,6 @@
 </div>
 
 ---
-
-## 👾 Quem sou eu
-
 Sou desenvolvedor em formação apaixonado por tecnologia já atuei como desenvolvedor pela **CI&T** onde atuei em projetos reais para o **Albert Einstein**, entregando valor com metodologias ágeis, qualidade de código e colaboração em equipe. Também já atuei no **suporte técnico** onde solucionei diversos problemas e desenvolvi habilidades que contribuiram muito para o meu amadurescimento commo profissional. Atualmente busco o próximo passo em uma posição de Trainee/Júnior onde possa crescer, contribuir e evoluir.
 
 ---
